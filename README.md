@@ -38,7 +38,7 @@ Play against the **system** unlimited times, track your **scores**, and enjoy **
    cd Tic-Tac-Toe
    \`\`\`
 
-3. **Open \`index.html\`** in your browser
+3. **Open \`Tic-Tac-Toe.html\`** in your browser
 
 ## 📌 Future Improvements
 
