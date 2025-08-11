@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-app
 
 Game app
-echo "# 🎮 Tic-Tac-Toe Web App
+echo " 🎮 Tic-Tac-Toe Web App
 
 A fun, interactive, and mobile-friendly **Tic-Tac-Toe game** built with HTML, CSS, and JavaScript.  
 Play against the **system** unlimited times, track your **scores**, and enjoy **sound effects** for every action!
@@ -18,10 +18,6 @@ Play against the **system** unlimited times, track your **scores**, and enjoy **
   - Draw sound for tie results
 - **📱 Mobile-Friendly UI** – Responsive design for smooth experience on all devices.
 - **🎨 Interactive Design** – Eye-catching visuals, hover effects, and smooth animations.
-
-## 🖼 Demo Preview
-
-_(Add screenshots or GIF here)_
 
 ## 🛠 Tech Stack
 
@@ -42,7 +38,7 @@ _(Add screenshots or GIF here)_
    cd Tic-Tac-Toe
    \`\`\`
 
-3. **Open \`index.html\`** in your browser
+3. **Open \`Tic-Tac-Toe.html\`** in your browser
 
 ## 📌 Future Improvements
 
@@ -50,4 +46,4 @@ _(Add screenshots or GIF here)_
 - Multiplayer mode (Local & Online)
 - Custom themes & sound packs
 
-" > README.md
+
