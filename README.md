@@ -19,10 +19,6 @@ Play against the **system** unlimited times, track your **scores**, and enjoy **
 - **📱 Mobile-Friendly UI** – Responsive design for smooth experience on all devices.
 - **🎨 Interactive Design** – Eye-catching visuals, hover effects, and smooth animations.
 
-## 🖼 Demo Preview
-
-_(Add screenshots or GIF here)_
-
 ## 🛠 Tech Stack
 
 - **HTML5** – Structure
