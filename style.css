@@ -87,6 +87,9 @@ button {
   text-shadow: 2px 2px 3px aqua;
 }
 
+button:hover {
+  transform: scale(1.4);
+}
 
 @media (max-width: 480px) {
   .container {
@@ -107,6 +110,9 @@ button {
   .scoreboard {
     font-size: 12px;
   }
+  button:hover {
+  transform: scale(1.2);
+}
 
 }
 
