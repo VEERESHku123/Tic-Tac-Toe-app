@@ -14,12 +14,27 @@ body {
   font-family: Arial;
 }
 
+@keyframes heading {
+  0% {
+      color: aqua;
+      text-shadow: 1px 1px yellow;
+      transform: translateX(10px);
+
+  }
+  100%{
+    color: brown;
+    text-shadow: 1px 1px aqua;
+    transform: translateX(0);
+  }
+}  
+
 h1 {
   margin-top: 50px;
   margin-bottom: 50px;
-  color: brown;
   font-size: 40px;
-  text-shadow: 1px 1px aqua;
+  animation-name: heading;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
 }
 .container {
   display: grid;
@@ -81,7 +96,8 @@ button {
   margin-top: 10px;
   background-color: brown;
   border: none;
-  color: black;
+  color: rgb(6, 6, 39);
+  font-weight: bold;
   padding: 9px;
   border-radius: 10px;
   text-shadow: 2px 2px 3px aqua;
